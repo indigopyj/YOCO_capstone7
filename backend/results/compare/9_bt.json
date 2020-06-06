@@ -1,0 +1,39 @@
+{
+	"new_defects": [
+		{
+			"label": "scratch",
+			"topx": 160,
+			"topy": 935,
+			"btmx": 467,
+			"btmy": 1112
+		},
+		{
+			"label": "scratch",
+			"topx": 569,
+			"topy": 1219,
+			"btmx": 903,
+			"btmy": 1365
+		},
+		{
+			"label": "scratch",
+			"topx": 3489,
+			"topy": 894,
+			"btmx": 3958,
+			"btmy": 1064
+		},
+		{
+			"label": "scratch",
+			"topx": 2986,
+			"topy": 1292,
+			"btmx": 3114,
+			"btmy": 1393
+		},
+		{
+			"label": "scratch",
+			"topx": 3375,
+			"topy": 2371,
+			"btmx": 3627,
+			"btmy": 2524
+		}
+	]
+}

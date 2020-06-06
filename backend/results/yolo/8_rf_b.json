@@ -1,0 +1,18 @@
+{
+	"predictions": [
+		{
+			"label": "scratch",
+			"topx": 2066,
+			"topy": 1052,
+			"btmx": 2292,
+			"btmy": 1188
+		},
+		{
+			"label": "scratch",
+			"topx": 1801,
+			"topy": 2362,
+			"btmx": 2331,
+			"btmy": 2521
+		}
+	]
+}

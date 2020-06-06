@@ -1,0 +1,46 @@
+{
+	"predictions": [
+		{
+			"label": "scratch",
+			"topx": 112,
+			"topy": 657,
+			"btmx": 899,
+			"btmy": 1060
+		},
+		{
+			"label": "scratch",
+			"topx": 1284,
+			"topy": 1951,
+			"btmx": 1437,
+			"btmy": 2077
+		},
+		{
+			"label": "scratch",
+			"topx": 618,
+			"topy": 2349,
+			"btmx": 865,
+			"btmy": 2546
+		},
+		{
+			"label": "scratch",
+			"topx": 812,
+			"topy": 2671,
+			"btmx": 1080,
+			"btmy": 2830
+		},
+		{
+			"label": "scratch",
+			"topx": 2302,
+			"topy": 1790,
+			"btmx": 2673,
+			"btmy": 1913
+		},
+		{
+			"label": "scratch",
+			"topx": 3217,
+			"topy": 2093,
+			"btmx": 3384,
+			"btmy": 2242
+		}
+	]
+}

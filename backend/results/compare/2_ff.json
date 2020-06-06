@@ -1,0 +1,25 @@
+{
+	"new_defects": [
+		{
+			"label": "scratch",
+			"topx": 887,
+			"topy": 706,
+			"btmx": 1364,
+			"btmy": 961
+		},
+		{
+			"label": "scratch",
+			"topx": 3199,
+			"topy": 1050,
+			"btmx": 3465,
+			"btmy": 1207
+		},
+		{
+			"label": "scratch",
+			"topx": 3587,
+			"topy": 1064,
+			"btmx": 3911,
+			"btmy": 1238
+		}
+	]
+}
