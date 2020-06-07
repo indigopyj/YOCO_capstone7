@@ -45,7 +45,7 @@ def find_match(before_img, before_boxes, after_img, after_boxes, threshold = 0.1
             hash2 = average_hash(after)
             result = hamming_distance(hash1, hash2) / 256
             print(result, i, j)
-            if (result < threshold):  # different defect
+            if (result < threshold):  # same defect
                 same_set.append(i)
 
             j+=1
