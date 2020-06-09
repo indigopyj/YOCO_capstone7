@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name ="newblue">#3778EC</color>
+    <color name = "newgrey">#D8D8D8</color>
+
+    <color name="YOCObackground">#1D4999</color>
+    <color name="YOCOgrey">#CDCDCD</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="darkgrey">#898989</color>
+    <color name="black_overlay">#66000000</color>
+
+    <color name="red">#FF0000</color>
+    <color name="pink">#FF43CE</color>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carmodellist">
+        <item>차량 종류를 선택하세요</item>
+        <item>소형차</item>
+        <item>중형차</item>
+        <item>대형차</item>
+            </string-array>
+</resources>
